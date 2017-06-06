@@ -14,6 +14,9 @@ func TestFindBob(t *testing.T) {
 		{"bobizfcpevqcbob", 2},
 		{"lzpbobobobwxfoj", 3},
 		{"bobobihiksbobob", 4},
+		{"azcbobobegghaklbobwccifwdperkj", 3},
+		{"bobwccifwdperkjxxkwhdpmkywcbobbobizfcpevqcbob", 4},
+		{"azcbobobegghaklzaxbffbobobobbpbgwgjmnbobwccifwdperkjxxkwhdpmkywcbob", 7},
 	}
 
 	for _, c := range cases {
