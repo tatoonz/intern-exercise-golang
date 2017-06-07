@@ -10,6 +10,6 @@ package exercise1
 
 // VowelCount : count a vowel from input string
 func VowelCount(s string) int {
-	// todo : implements logic for count vowels in string
+	// TODO(intern): implements code for count vowels in string
 	return 0
 }

@@ -10,5 +10,6 @@ package exercise2
 
 // FindBob : return number of `bob` that occurs in a string
 func FindBob(s string) int {
+	// TODO(intern): implements code for count `bob` from string
 	return 0
 }
